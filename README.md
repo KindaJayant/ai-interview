@@ -222,7 +222,7 @@ Make sure:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/prepwise.git
+git clone https://github.com/kindajayant/ai-interview.git
 cd prepwise
 ```
 
